@@ -7,3 +7,4 @@ chromadb
 sentence-transformers
 transformers
 torch
+pytesseract
