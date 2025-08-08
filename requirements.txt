@@ -3,7 +3,4 @@ uvicorn
 requests
 PyPDF2
 python-docx
-chromadb
-sentence-transformers
-
 pytesseract
