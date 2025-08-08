@@ -3,6 +3,8 @@ uvicorn
 requests
 PyPDF2
 python-docx
-pytesseract
 chromadb
 sentence-transformers
+transformers
+torch
+pytesseract
